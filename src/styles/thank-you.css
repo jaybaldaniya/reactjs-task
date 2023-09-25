@@ -1,0 +1,35 @@
+.result {
+    text-align: center;
+}
+
+.result h3 {
+    font-size: 24px;
+    letter-spacing: 1.4px;
+    text-align: center;
+}
+
+.result p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.result p span {
+    color: #165d93;
+    font-size: 22px;
+}
+
+.result button {
+    background: #78b722;
+    border-radius: 9px;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 10px 42px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.home {
+    background: #165d93 !important;
+}

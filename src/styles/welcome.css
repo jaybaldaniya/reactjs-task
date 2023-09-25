@@ -1,0 +1,51 @@
+.welcome {
+    text-align: center;
+    padding-top: 7%;
+}
+
+.welcome h3 {
+    font-size: 24px;
+    letter-spacing: 1.4px;
+    text-align: center;
+}
+
+.welcome p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.welcome p span {
+    color: #165d93;
+    font-size: 22px;
+}
+
+.welcome button {
+    background: #78b722;
+    border-radius: 9px;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 10px 42px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #113e61;
+    color: #fff;
+    height: 50px;
+  }
+  
+  .app-name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .user-email {
+    font-size: 16px;
+  }
